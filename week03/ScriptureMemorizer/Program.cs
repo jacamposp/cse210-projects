@@ -1,3 +1,10 @@
+// Exceeding requirements:
+// 1. The program works with a library of scriptures and picks one at random each run.
+// 2. Only words that are still visible are chosen when hiding (stretch challenge),
+//    so every press of Enter makes real progress.
+// 3. Punctuation stays visible when a word is hidden (e.g. "God," becomes "___,"),
+//    which helps the user keep the rhythm of the verse while reciting.
+
 using System;
 
 class Program
